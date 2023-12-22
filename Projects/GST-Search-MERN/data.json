@@ -1,0 +1,45 @@
+[{
+    "gst_number":"24AAACC4175D1Z4",
+    "busniess_name":"Greet Labs Pvt Ltd",
+    "pan":"AAACC4175D",
+    "address":"Bangalore",
+    "pincode":"560043",
+    "entity_type":"IT Services",
+    "nature_of_busniess":"Software",
+    "department_code":"",
+    "registration_type":"Pvt Ltd"
+ },
+  {
+    "gst_number":"27AAACC4175D1ZY",
+    "busniess_name":"Company Two Pvt Ltd",
+    "pan":"AAACC4175D",
+    "address":"Bangalore",
+    "pincode":"560043",
+    "entity_type":"IT Services",
+    "nature_of_busniess":"Software",
+    "department_code":"",
+    "registration_type":"Pvt Ltd"
+ },
+ {
+    "gst_number":"19AAACC4175D1ZV",
+    "busniess_name":"Company Three Pvt Ltd",
+    "pan":"AAACC4175D",
+    "address":"Bangalore",
+    "pincode":"560043",
+    "entity_type":"IT Services",
+    "nature_of_busniess":"Software",
+    "department_code":"",
+    "registration_type":"Pvt Ltd"
+ },
+  {
+    "gst_number":"23AAACC4175D1Z6",
+    "busniess_name":"Company Four Pvt Ltd",
+    "pan":"AAACC4175D",
+    "address":"Bangalore",
+    "pincode":"560043",
+    "entity_type":"IT Services",
+    "nature_of_busniess":"Software",
+    "department_code":"",
+    "registration_type":"Pvt Ltd"
+ }
+]
