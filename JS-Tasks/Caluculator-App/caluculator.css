@@ -1,0 +1,48 @@
+.formstyle  
+{  
+width: 300px;  
+height: 330px;  
+margin: 20px auto;  
+border: 3px solid skyblue;  
+border-radius: 5px;  
+padding: 20px;  
+text-align: center;  
+background-image: linear-gradient(to bottom right, #D16BA5, #86A8E7, #5FFBF1);  
+}  
+   
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: skyblue;  
+    color: white;  
+    }  
+input:hover  
+{  
+background-color: rgb(109, 139, 0);  
+}  
+      
+*{  
+margin: 0;  
+padding: 0;  
+}  
+  
+  
+.btn{  
+width: 50px;  
+height: 50px;  
+font-size: 25px;  
+margin: 2px;  
+cursor: pointer;  
+background-color: grey;  
+color: white;  
+  
+}  
+  
+  
+.textview{  
+width: 223px;  
+margin: 5px;  
+font-size: 25px;  
+padding: 5px;  
+background-color: rgba(20, 145, 20, 0.596);  
+}     
